@@ -1,1 +1,1 @@
-# pete2061_2022C
+# This provides the Jupyter notebooks for the Python for Statistics and Data Visualization Course.
